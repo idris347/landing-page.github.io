@@ -6,3 +6,37 @@
     background-size: cover;
     height: 500px;
 }
+.btn-white {
+    background: #fff;
+    color: #000;
+ }
+ 
+ 
+ .btn-white:hover {
+    background: #eaeaea;
+ }
+ 
+.rounded-column {
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+    border: 1px solid black;
+ }
+ .destination-1 {
+    background-image: url("../images/destination/img4.png");
+    background-size: cover;
+ }
+ 
+ 
+ .destination-2 {
+    background-image: url("../images/destination/img5.png");
+    background-size: cover;
+ }
+ 
+ 
+ .destination-3 {
+    background-image: url("../images/destination/img6.png");
+    background-size: cover;
+ }
+ 
+ 
