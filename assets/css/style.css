@@ -1,0 +1,8 @@
+.navbar{
+    min-height: 80px;
+}
+.hero-container{
+    background-image:url('../images/header/lombok\ barat\ 1.png') ;
+    background-size: cover;
+    height: 500px;
+}
